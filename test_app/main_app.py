@@ -30,7 +30,7 @@ st.code(code, language="python")
 
 # 画像の表示
 st.subheader("画像の表示")
-image = Image.open('data/streamlit_logo.png')
+image = Image.open('test_app/data/streamlit_logo.png')
 st.image(image, width=200, caption="これはロゴです")
 
 # テキストボックス
@@ -112,7 +112,7 @@ start_date = st.date_input(
 # データフレームの表示
 st.subheader("データフレーム")
 st.text("千葉の平均気温")
-df = pd.read_csv('data/kionn.csv', index_col="月")
+df = pd.read_csv('test_app/data/kionn.csv', index_col="月")
 st.dataframe(df)
 st.line_chart(df)
 st.bar_chart(df['2021'])
