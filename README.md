@@ -3,3 +3,9 @@
 streamlitで簡易webアプリを作ってみるテスト
 
 [参考](https://youtu.be/4nsTce1Oce8)
+
+## 起動
+
+~~~
+streamlit run app.py
+~~~
