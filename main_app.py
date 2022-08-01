@@ -9,7 +9,7 @@ from streamlit_player import st_player
 st.title("テストアプリ！")
 st.caption("これはstreamlitのテスト用のアプリです")
 
-st.subheader("文章の表示")
+st.subheader("これはサブヘッダーです")
 st.text("ここに文章をかけるよ")
 
 # コードの表示
