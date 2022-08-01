@@ -12,7 +12,7 @@ pip install -r requirements.txt
 ~~~
 
 ~~~
-streamlit run app.py
+streamlit run main_app.py
 ~~~
 
 ## webに公開の手順
