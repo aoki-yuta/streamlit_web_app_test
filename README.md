@@ -1,6 +1,7 @@
 # streamlit_web_app_test
 
-streamlitで簡易webアプリを作ってみるテスト
+streamlitで簡易webアプリを作ってみるテスト\
+URL:https://aoki-yuta-streamlit-web-app-test-main-app-fv4q24.streamlitapp.com/
 
 [参考](https://youtu.be/4nsTce1Oce8)
 
