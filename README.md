@@ -18,5 +18,8 @@ streamlit run app.py
 3. Githubにプッシュ
 4. [Streamlit Cloud](https://streamlit.io/cloud)にアップ
    
-### rewuirements.txt作成手順
+### rewuirements.txt作成
 pipで行うため，condaの場合は仮想環境を作成後，ライブラリをpipでインストール
+
+## APIリファレンス
+https://docs.streamlit.io/library/api-reference
