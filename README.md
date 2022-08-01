@@ -8,6 +8,10 @@ URL:https://aoki-yuta-streamlit-web-app-test-main-app-fv4q24.streamlitapp.com/
 ## 起動
 
 ~~~
+pip install -r requirements.txt
+~~~
+
+~~~
 streamlit run app.py
 ~~~
 
